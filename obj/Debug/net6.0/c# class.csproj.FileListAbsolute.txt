@@ -1,0 +1,15 @@
+C:\Users\ademo\Desktop\c# class\bin\Debug\net6.0\c# class.exe
+C:\Users\ademo\Desktop\c# class\bin\Debug\net6.0\c# class.deps.json
+C:\Users\ademo\Desktop\c# class\bin\Debug\net6.0\c# class.runtimeconfig.json
+C:\Users\ademo\Desktop\c# class\bin\Debug\net6.0\c# class.dll
+C:\Users\ademo\Desktop\c# class\bin\Debug\net6.0\c# class.pdb
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\c# class.csproj.AssemblyReference.cache
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\c# class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\c# class.AssemblyInfoInputs.cache
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\c# class.AssemblyInfo.cs
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\c# class.csproj.CoreCompileInputs.cache
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\c# class.dll
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\refint\c# class.dll
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\c# class.pdb
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\c# class.genruntimeconfig.cache
+C:\Users\ademo\Desktop\c# class\obj\Debug\net6.0\ref\c# class.dll
