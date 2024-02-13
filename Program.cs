@@ -165,8 +165,61 @@ namespace class1
             #endregion
 
 
-            #region 
+            #region
+
+            //switch
+            System.Console.WriteLine("please your figure");
+           
+            int number2 = int.Parse(Console.ReadLine());
+            System.Console.WriteLine("enter another figure");
+            int number3 = int.Parse(Console.ReadLine());
+
             
+            switch(number3){
+                case > 2:
+                int totall = number3 * number2;
+                if(totall > 0){
+                    System.Console.WriteLine("your result is greater than 0 {0}", totall );
+
+                } else {
+                    System.Console.WriteLine("your result is less than 0 {0}", totall);
+                }
+                break;
+                case < 2:
+                int totall2 = number3 / number2;
+                if(totall2 < 0){
+                     System.Console.WriteLine("your result is less than 0{0}", totall2);
+                } else {
+                    System.Console.WriteLine("your result is greater than 0 {0}", totall2);
+                }
+
+               
+                break;
+                default:
+                System.Console.WriteLine("number doesnt exist");
+                break;
+                
+
+            }
+
+            #region 
+            // while loop, do while loop, forEach loop, For loop
+         
+
+            //do while loop
+
+            // do{
+            //     System.Console.WriteLine(number);
+            // }
+            // while(number > 0);
+            // {
+
+            // }
+            #endregion
+
+            
+
+
 
 
             #endregion
