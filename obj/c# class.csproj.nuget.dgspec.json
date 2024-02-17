@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ademo\\Desktop\\c# class\\c# class.csproj": {}
+    "c:\\Users\\ademo\\Desktop\\c# class\\c# class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ademo\\Desktop\\c# class\\c# class.csproj": {
+    "c:\\Users\\ademo\\Desktop\\c# class\\c# class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ademo\\Desktop\\c# class\\c# class.csproj",
+        "projectUniqueName": "c:\\Users\\ademo\\Desktop\\c# class\\c# class.csproj",
         "projectName": "c# class",
-        "projectPath": "C:\\Users\\ademo\\Desktop\\c# class\\c# class.csproj",
+        "projectPath": "c:\\Users\\ademo\\Desktop\\c# class\\c# class.csproj",
         "packagesPath": "C:\\Users\\ademo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ademo\\Desktop\\c# class\\obj\\",
+        "outputPath": "c:\\Users\\ademo\\Desktop\\c# class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ademo\\AppData\\Roaming\\NuGet\\NuGet.Config"
